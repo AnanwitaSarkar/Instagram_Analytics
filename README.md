@@ -6,6 +6,11 @@ Welcome to the Instagram User Analytics project! This repository hosts a compreh
 
 The primary objective of this project is to derive meaningful insights from Instagram user data that can be utilized to launch effective marketing campaigns, make informed decisions about app features, measure the success of the app through user engagement metrics, and ultimately contribute to the overall improvement of user experience on the platform.
 
+## Tech stacks used
+
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentations-red)
+
 ## Approach
 
 We have employed a structured approach to achieve our project goals:
